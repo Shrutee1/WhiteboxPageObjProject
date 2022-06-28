@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: pageTestPackage.HomePageTest
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 1, Errors: 0, Skipped: 11, Time elapsed: 0.623 s <<< FAILURE! - in pageTestPackage.HomePageTest
+Setup(pageTestPackage.HomePageTest)  Time elapsed: 0.483 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebDriver.manage()" because "basePackage.BaseClass.driver" is null
+	at pageTestPackage.HomePageTest.Setup(HomePageTest.java:24)
+
