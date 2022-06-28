@@ -20,7 +20,7 @@ public class BaseClass {
 		
 		prop =new Properties();
 		
-		FileInputStream FI= new FileInputStream("../WhiteboxPageObjProject/src/main/java/configPackage/config.properties");
+		FileInputStream FI= new FileInputStream("src/main/java/configPackage/config.properties");
 		prop.load(FI);
 		
 	}
@@ -33,11 +33,11 @@ public class BaseClass {
 		
 		
 		if(browsername.equals("chrome")) {
-			System.setProperty("webdriver.chrome.driver", "../WhiteboxPageObjProject/Drivers/chromedriver.exe");
+			System.setProperty("webdriver.chrome.driver", "Drivers/chromedriver.exe");
 			 driver =new ChromeDriver();
 		}
 		else if (browsername.equals("firefox")) {
-			System.setProperty("webdriver.gecko.driver", "../WhiteboxPageObjProject/Drivers/geckodriver.exe");
+			System.setProperty("webdriver.gecko.driver", "Drivers/geckodriver.exe");
 		driver=new FirefoxDriver();
 		}
 		driver.manage().window().maximize();

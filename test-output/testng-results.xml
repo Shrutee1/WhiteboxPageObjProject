@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-27T23:06:27 EDT" name="Default suite" finished-at="2022-06-27T23:06:43 EDT" duration-ms="15953">
+  <suite started-at="2022-06-28T00:01:04 EDT" name="Default suite" finished-at="2022-06-28T00:01:16 EDT" duration-ms="11065">
     <groups>
     </groups>
-    <test started-at="2022-06-27T23:06:27 EDT" name="Default test" finished-at="2022-06-27T23:06:43 EDT" duration-ms="15953">
+    <test started-at="2022-06-28T00:01:04 EDT" name="Default test" finished-at="2022-06-28T00:01:16 EDT" duration-ms="11065">
       <class name="pageTestPackage.LoginPageTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-27T23:06:27 EDT" name="setup" finished-at="2022-06-27T23:06:35 EDT" duration-ms="7279" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-28T00:01:04 EDT" name="setup" finished-at="2022-06-28T00:01:09 EDT" duration-ms="4094" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyregister()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-27T23:06:35 EDT" name="verifyregister" finished-at="2022-06-27T23:06:35 EDT" duration-ms="39" status="PASS">
+        <test-method signature="verifyregister()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-28T00:01:09 EDT" name="verifyregister" finished-at="2022-06-28T00:01:09 EDT" duration-ms="48" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyregister -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-27T23:06:35 EDT" name="TearDown" finished-at="2022-06-27T23:06:35 EDT" duration-ms="431" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-28T00:01:09 EDT" name="TearDown" finished-at="2022-06-28T00:01:09 EDT" duration-ms="173" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-27T23:06:35 EDT" name="setup" finished-at="2022-06-27T23:06:39 EDT" duration-ms="3756" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-28T00:01:09 EDT" name="setup" finished-at="2022-06-28T00:01:12 EDT" duration-ms="3151" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyLoginTitle()[pri:1, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-27T23:06:39 EDT" name="verifyLoginTitle" finished-at="2022-06-27T23:06:39 EDT" duration-ms="10" status="PASS">
+        <test-method signature="verifyLoginTitle()[pri:1, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-28T00:01:12 EDT" name="verifyLoginTitle" finished-at="2022-06-28T00:01:12 EDT" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTitle -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-27T23:06:39 EDT" name="TearDown" finished-at="2022-06-27T23:06:39 EDT" duration-ms="185" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-28T00:01:12 EDT" name="TearDown" finished-at="2022-06-28T00:01:12 EDT" duration-ms="154" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-27T23:06:39 EDT" name="setup" finished-at="2022-06-27T23:06:43 EDT" duration-ms="3768" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-28T00:01:12 EDT" name="setup" finished-at="2022-06-28T00:01:15 EDT" duration-ms="3027" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:2, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-27T23:06:43 EDT" name="loginTest" finished-at="2022-06-27T23:06:43 EDT" duration-ms="282" status="PASS">
+        <test-method signature="loginTest()[pri:2, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-28T00:01:15 EDT" name="loginTest" finished-at="2022-06-28T00:01:15 EDT" duration-ms="226" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="TearDown()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-27T23:06:43 EDT" name="TearDown" finished-at="2022-06-27T23:06:43 EDT" duration-ms="163" status="PASS">
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:pageTestPackage.LoginPageTest@29215f06]" started-at="2022-06-28T00:01:15 EDT" name="TearDown" finished-at="2022-06-28T00:01:16 EDT" duration-ms="148" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
